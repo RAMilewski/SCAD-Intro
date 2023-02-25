@@ -1,2 +1,2 @@
 # SCAD-Intro
- Introductory OpenSCAD Files for Beginners 
+Illustrations for a OpenSCAD introductory lesson 
